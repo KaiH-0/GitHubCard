@@ -4,7 +4,7 @@ There are two versions, one is using the github api to grab your repo informatio
 
 # Preview
 
-API Version:
+API Version:  
 ![image](https://user-images.githubusercontent.com/50411351/118258797-3add0200-b4a8-11eb-8368-26c0df13b3e9.png)
 
 HTML Version:
